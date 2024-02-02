@@ -33,7 +33,7 @@ img{
 }
 
 div {
-    height: 125px;
+    min-height: 125px;
     padding: 20px;
     border:solid 3px #ffffff;
 }
@@ -74,7 +74,7 @@ div {
 }
 
 .green {
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0 0;
